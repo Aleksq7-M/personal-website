@@ -1,3 +1,17 @@
 body{
     background: rgb(158, 212, 137);
+    margin: 0;
+}
+
+div#header{
+    text-align: center;
+    color: #fff;
+    background-image: url(./resources/background\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div#header img{
+    border: 2px solid #000;
+    border-radius: 30%;
 }
